@@ -1,1 +1,1 @@
-# sdl-tutorial
+# SDL2-Tutorial
